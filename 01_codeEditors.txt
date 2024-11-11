@@ -1,0 +1,22 @@
+------------------------------------------
+
+**Code Editors**
+
+------------------------------------------
+
+*Editors*
+
+Classic
+- Visual Studio
+
+AI Tools
+- Codeium
+- Cursor
+- Void (waitlist)
+
+Smartphone
+- Koder (Iphone/Ipad)
+
+------------------------------------------
+
+*Best Shortcuts for mac in VS Code*
