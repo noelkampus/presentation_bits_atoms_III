@@ -1,0 +1,10 @@
+------------------------------------------
+
+**Local Server**
+
+------------------------------------------
+
+- Live Share
+- Open index.html file 
+    - right click
+        - Open with live server
